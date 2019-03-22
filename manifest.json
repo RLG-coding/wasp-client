@@ -1,16 +1,16 @@
 {
-    "short_name": "Neon",
-    "name": "Neon Online Notes",
+    "short_name": "WASP",
+    "name": "WASP Online",
     "icons": [
         {
-            "src": "neon-app-icon.png",
+            "src": "wasp-icon.png",
             "type": "image/png",
             "sizes": "128x128"
         }
     ],
     "start_url": "index.html",
-    "background_color": "#2575c6",
+    "background_color": "#312e28",
     "display": "standalone",
     "scope": "./",
-    "theme_color": "#2575c6"
+    "theme_color": "#cba14c"
 }
