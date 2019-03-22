@@ -1,0 +1,16 @@
+{
+    "short_name": "Neon",
+    "name": "Neon Online Notes",
+    "icons": [
+        {
+            "src": "neon-app-icon.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#2575c6",
+    "display": "standalone",
+    "scope": "./",
+    "theme_color": "#2575c6"
+}

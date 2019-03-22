@@ -1,0 +1,7 @@
+{
+    "https": true,
+    "browser": [
+        "google-chrome",
+        "firefox"
+    ]
+}
